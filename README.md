@@ -1,6 +1,6 @@
 # EPPlus: repro for weird `AutoFitColumns` behavior
 
-execute [run.cmd](./EPP.Test/run.cmd)
+execute [run.ps1](run.ps1)
 
 1. build and run "normal"
    > As expected: 25.290019989013672
